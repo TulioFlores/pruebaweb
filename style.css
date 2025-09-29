@@ -14,3 +14,7 @@ body{
 p{
     margin-bottom: 15px;
 }
+a{
+    color: #3498db;
+    text-decoration: none;
+}
